@@ -44,4 +44,37 @@ A database of 20 protein interaction networks. Networks belong to species:Caenor
 [Ashburner,M., Ball,C.A., Blake,J.A. et al. (2000) Gene ontology: tool for the unification of biology. The Gene Ontology Consortium. Nat. Genet., 25, 25–29.] <br>
 [Zhang,C., Hanspers,K. and Kuchinsky,A. (2012) Mosaic: making biological sense of complex networks. Bioinformatics, 28, 1943–1944.]
 
+<hr />
+
+### License
+
+GRAPES is distributed under the MIT license. This means that it is free for both academic and commercial use. 
+Note however that some third party components in GRAPES require that you reference certain works in scientific publications. 
+You are free to link or use GRAPES inside source code of your own program. If do so, please reference (cite) GRAPES and this website. 
+We appreciate bug fixes and would be happy to collaborate for improvements. <br>
+[MIT License](https://raw.githubusercontent.com/GiugnoLab/Dataset-GRAPES/master/LICENSE)
+
+<hr />
+
+### Citation
+    "Giugno, R., Bonnici, V., Bombieri, N., Pulvirenti, A., Ferro, A., & Shasha, D. (2013). Grapes:
+    A software for parallel searching on biological graphs targeting multi-core architectures.
+    PloS one, 8(10), e76911."
+   <span style="color:blue">[Online version](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0076911) </span> <br>
+   [Cited by](https://scholar.google.it/scholar?cites=4839872088400060775&as_sdt=2005&sciodt=0,5&hl=it) <br>
+   
+   ###### BibTeX format:
+   
+    "@article{giugno2013grapes,
+    title={Grapes: A software for parallel searching on biological graphs targeting multi-core architectures},
+    author={Giugno, Rosalba and Bonnici, Vincenzo and Bombieri, Nicola and Pulvirenti, Alfredo and Ferro, Alfredo and Shasha, Dennis},
+    journal={PloS one},
+    volume={8},
+    number={10},
+    pages={e76911},
+    year={2013},
+    publisher={Public Library of Science}
+     }"
+    
+
 
